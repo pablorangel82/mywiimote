@@ -7,7 +7,7 @@ This library was developed for fun purpose :-). There is no any kind of warranty
 
 Requirements: 
 
-- libluetooth;
+- libbluetooth;
 - BlueZ stack for Linux: http://www.bluez.org/. If you want to install BlueZ on Ubuntu distribution, see: https://ubuntu.com/core/docs/bluez/install-configure/install. 
 - BlueCove Library: your Java application must includes bluecove dependency.
 
